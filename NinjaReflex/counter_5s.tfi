@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+counter_5s instance_name (
+    .clk(clk), 
+    .switch(switch), 
+    .wrong_time(wrong_time), 
+    .clk_5s(clk_5s), 
+    .start(start)
+    );
+
+

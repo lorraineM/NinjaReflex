@@ -1,0 +1,11 @@
+[Inputs]
+clk
+switch
+=wrong_time[2:0]=
+[Outputs]
+clk_5s
+start
+[BiDir]
+[ATTRIBUTES]
+VeriModel counter_5s
+

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/xst"
+elaborate
+-ifn counter_5s.prj
+-ifmt mixed

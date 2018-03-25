@@ -1,0 +1,12 @@
+[Inputs]
+clk
+=btn_in[3:0]=
+=switch[7:0]=
+[Outputs]
+=anode[11:0]=
+=segment[15:0]=
+=LED[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel top
+

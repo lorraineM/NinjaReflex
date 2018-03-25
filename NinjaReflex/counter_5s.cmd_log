@@ -1,0 +1,3 @@
+vhdtdtfi -lib work {E:/NinjaReflex beta6/NinjaReflex/counter_5s.v} -lang verilog -prj NinjaReflex -o counter_5s.spl -module counter_5s -template C:/Xilinx/12.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 counter_5s.spl {E:/NinjaReflex beta6/NinjaReflex/counter_5s.sym} 
+vhdtdtfi -lang verilog -prj NinjaReflex -o "E:/NinjaReflex beta6/NinjaReflex/counter_5s.tfi" -lib work "E:/NinjaReflex beta6/NinjaReflex//counter_5s.v" -module counter_5s -template C:/Xilinx/12.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 

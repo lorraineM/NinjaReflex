@@ -1,0 +1,108 @@
+#-----------------------------------------------------------
+# PlanAhead v12.4
+# Build 108585 by hdbuild on Tue Nov  9 17:32:56 MST 2010
+# Start of session at: Mon Dec 24 13:38:06 2012
+# Process ID: 2460
+# Log file: E:/logic_project/NinjaReflex/planAhead_run_1/planAhead.log
+# Journal file: E:/logic_project/NinjaReflex/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+INFO: [HD-Licensing 0] Attempting to get a license: PlanAhead
+INFO: [HD-Licensing 1] Got a license: PlanAhead
+INFO: [HD-ArchReader 0] Loading parts and site information from E:\Xilinx\ISE_DS\PlanAhead\parts\arch.xml
+INFO: [HD-RTPRIM 0] Parsing RTL primitives file 'E:\Xilinx\ISE_DS\PlanAhead\parts\xilinx\rtl\prims\rtl_prims.xml'
+INFO: [HD-RTPRIM 1] Finished Parsing RTL primitives file 'E:\Xilinx\ISE_DS\PlanAhead\parts\xilinx\rtl\prims\rtl_prims.xml'
+start_gui -source E:/logic_project/NinjaReflex/pa.fromHdl.tcl
+# create_project -name NinjaReflex -dir "E:/logic_project/NinjaReflex/planAhead_run_1" -part xc3s200ft256-4
+# set_param project.pinAheadLayout yes
+# set srcset [get_property srcset [current_run -impl]]
+# set_property top top $srcset
+# set_param project.paUcfFile  "top.ucf"
+# set hdlfile [add_files [list {timer_1ms.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {m_gen_sec.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {m_gen_min.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {m_gen_hour.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {pbdebounce.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {judge.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {display_LED.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {display32bits.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {display.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {counter_5s.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {counter_4s.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {counter_3s.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {counter_1s.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {clock_24h.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {top.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# add_files "top.ucf" -fileset [get_property constrset [current_run]]
+# open_rtl_design -part xc3s200ft256-4
+INFO: [HD-RTLIN 2] Parsing VHDL file "E:\Xilinx\ISE_DS\PlanAhead\parts\xilinx\rtl\lib\synplify\synattr.vhd" into library synplify
+INFO: [HD-RTLIN 2] Parsing package <attributes>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\timer_1ms.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <timer_1ms>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\m_gen_sec.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <m_gen_sec>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\m_gen_min.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <m_gen_min>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\m_gen_hour.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <m_gen_hour>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\pbdebounce.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <pbdebounce>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\judge.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <judge>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\display_LED.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <display_LED>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\display32bits.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <display32bits>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\display.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <display>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\counter_5s.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <counter_5s>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\counter_4s.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <counter_4s>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\counter_3s.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <counter_3s>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\counter_1s.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <counter_1s>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\clock_24h.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <clock_24h>.
+INFO: [HD-RTLIN 2] Parsing Verilog file "E:\logic_project\NinjaReflex\top.v" into library work
+INFO: [HD-RTLIN 2] Parsing module <top>.
+WARN: [HD-RTLIN 1] E:\logic_project\NinjaReflex\top.v(54) Constant value is truncated to fit in <15> bits.
+WARN: [HD-RTLIN 1] E:\logic_project\NinjaReflex\top.v(55) Constant value is truncated to fit in <15> bits.
+WARN: [HD-RTLIN 1] E:\logic_project\NinjaReflex\top.v(56) Constant value is truncated to fit in <15> bits.
+ERROR: [HD-RTLIN 3] E:\logic_project\NinjaReflex\top.v(200) Decimal constant 1000000000000 is too large, using -727379968 instead
+ERROR: [HD-RTLIN 3] E:\logic_project\NinjaReflex\top.v(21) Module <top> ignored due to previous errors.
+INFO: [HD-RTLIN 2] Verilog file E:\logic_project\NinjaReflex\top.v ignored due to errors
+ERROR: Unable to process your HDL design.  Please review Elaboration Messages. 
+exit
+INFO: [HD-Application 0] Exiting PlanAhead...
+INFO: [HD-Licensing 2] Releasing license: PlanAhead

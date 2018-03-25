@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<DARoots Version="1" Minor="7">
+	<FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+		<Filter Type="Srcs"/>
+		<File Path="E:/logic_project/NinjaReflex/timer_1ms.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/m_gen_sec.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/m_gen_min.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/m_gen_hour.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/pbdebounce.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/judge.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/display_LED.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/display32bits.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/display.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/counter_5s.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/counter_4s.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/counter_3s.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/counter_1s.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/clock_24h.v">
+		</File>
+		<File Path="E:/logic_project/NinjaReflex/top.v">
+		</File>
+		<Config>
+			<Option Name="DesignMode" Val="RTL"/>
+			<Option Name="TopModule" Val="top"/>
+		</Config>
+	</FileSet>
+</DARoots>
+

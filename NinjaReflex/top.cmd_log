@@ -1,0 +1,765 @@
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -u -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -ntd -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -detail -ir off -pr off -c 100 -ntd -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+vhdtdtfi -lib work E:/logic_project/NinjaReflex/top.v -lang verilog -prj NinjaReflex -o top.spl -module top -template E:/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 top.spl E:/logic_project/NinjaReflex/top.sym 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+bitgen -intstyle ise -f top.ut top.ncd 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "E:/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.xst" -ofn "C:/Users/student/Desktop/NinjaReflex beta6/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim top.ngc top_synthesis.v 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex beta10/top.xst" -ofn "E:/logic_project/NinjaReflex beta10/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "E:/logic_project/NinjaReflex/top.xst" -ofn "E:/logic_project/NinjaReflex/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-4 top.ngc top.ngd  
+map -intstyle ise -p xc3s200-ft256-4 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim top.ngc top_synthesis.v 
